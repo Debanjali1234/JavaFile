@@ -4,7 +4,7 @@ class bitModdAeven {
 
     public static void oddeven(int n) {
 
-        int bitMask = 1;
+        int bitMask = 1;      // binary = 0001 .................................. so on
         if ((n & bitMask) == 0) {
             System.out.println("even");
         }
