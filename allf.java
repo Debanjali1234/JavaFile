@@ -18,3 +18,4 @@ public class allf {
         System.out.println("Int: " + i);
     }
 }
+// titli
